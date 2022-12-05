@@ -1,144 +1,144 @@
-1660.8590057036179 - CRASH - Charli XCX
-1657.2675839409612 - I Never Liked You - Future
-1639.7042607450269 - Mr Morale & The Big Steppers - Kendrick Lamar
-1632.5565078990528 - Planet Piano - Dr. Gabba
-1626.5958940688865 - MOTOMAMI - Rosalía
-1626.046955248349 - Kid A - Radiohead
-1624.0696570634245 - The Loneliest Time - Carly Rae Jepsen
-1622.8867901294188 - Max & Match - LOOΠΔ / ODD EYE CIRCLE
-1622.0385395590038 - For Lovers - Lamp
-1620.7605297371251 - 22, A Million - Bon Iver
-1612.1056216792467 - Mini Mix, Vol. 2 - Magdalena Bay
-1610.8630960754087 - The Album - BLACKPINK
-1604.8405110694791 - Golden Hour - Kacey Musgraves
-1602.7924445327892 - ランプ幻想 - Lamp
-1602.072817436832 - ¿Téo? - ¿Téo?
+1663.7375387252896 - Future - I Never Liked You
+1660.8590057036179 - Charli XCX - CRASH
+1639.7042607450269 - Kendrick Lamar - Mr Morale & The Big Steppers
+1635.810906396443 - Radiohead - Kid A
+1632.5565078990528 - Dr. Gabba - Planet Piano
+1631.4609426058948 - LOOΠΔ / ODD EYE CIRCLE - Max & Match
+1626.5958940688865 - Rosalía - MOTOMAMI
+1624.0696570634245 - Carly Rae Jepsen - The Loneliest Time
+1622.0385395590038 - Lamp - For Lovers
+1620.7605297371251 - Bon Iver - 22, A Million
+1610.8630960754087 - BLACKPINK - The Album
+1609.3980105356725 - ¿Téo? - ¿Téo?
+1604.8405110694791 - Kacey Musgraves - Golden Hour
+1602.7924445327892 - Lamp - ランプ幻想
 1599.7657585084323 - Foo Fighters - Foo Fighters
-1592.3431329024622 - A Little Rhythm and a Wicked Feeling - Magdalena Bay
-1591.5175342474288 - LP! - JPEGMAFIA
-1586.3114348548306 - SAILORWAVE III - Macross 82-99
-1585.0394684824184 - Sonic R Original Soundtrack - SEGA Sound Team
-1582.395780949753 - The Life Of Pi'erre 4 (Deluxe) - Pi’erre Bourne
-1581.4246080578675 - 4eva Is a Mighty Long Time - Big K.R.I.T.
-1579.5775865768605 - s a v e s t a t e - DR. GABBA
-1578.895667914816 - Big Wave - Tatsuro Yamashita
-1575.850700953792 - Benji - Sun Kil Moon
-1573.8126755283415 - Teenage Dream - Katy Perry
-1573.0034370116457 - OK Computer - Radiohead
-1571.9852111633436 - Is This It - The Strokes
-1571.9807220042287 - Kiss Land - The Weeknd
-1569.8780025676253 - Midnights - Taylor Swift
-1569.3920400403408 - Intimacy - Bloc Party
-1566.47620533297 - ACID REFLUX - Dr. Gabba
-1565.4790709450035 - BLACKPINK IN YOUR AREA - BLACKPINK
-1563.944117484491 - Waiting to Spill - The Backseat Lovers
-1562.2261189208652 - Red & White - LIL UZI VERT
-1562.1490949271429 - Arular - M.I.A.
-1557.0737175664274 - SLI'MERRE - Young Nudy
-1555.7425752356633 - Good Movie - Pi'erre Bourne
-1555.5800643840075 - Homework (25th Anniversary Edition) - Daft Punk
-1552.9241227827536 - Mercurial World - Magdalena Bay
-1551.0398538478278 - Pokémon Black 2 & Pokémon White 2: Super Music Collection - Game Freak
-1549.2789127381093 - Sugarless GiRL - Capsule
-1547.9212547721422 - The Colour and the Shape - Foo Fighters
-1544.2853683834796 - Unkind - j^p^n
-1543.7047529116774 - Common As Light And Love Are Red Valleys Of Blood - Sun Kil Moon
-1543.0166786830896 - Stratosphere - Duster
-1542.5743001017183 - In Abundance - Playboi Carti
-1542.4240626452697 - French Exit - TV Girl
-1539.8313916229636 - Norman Fucking Rockwell! - Lana Del Rey
-1539.5302596165711 - Negro Swan - Blood Orange
-1539.4262849247689 - Prescriptions II - Dr. Gabba
-1539.1620441879343 - Can't Buy A Thrill - Steely Dan
+1595.5460275957912 - Magdalena Bay - Mini Mix, Vol. 2
+1592.4102950372476 - Sun Kil Moon - Benji
+1592.3431329024622 - Magdalena Bay - A Little Rhythm and a Wicked Feeling
+1591.5175342474288 - JPEGMAFIA - LP!
+1586.6931124976318 - Tatsuro Yamashita - Big Wave
+1586.3114348548306 - Macross 82-99 - SAILORWAVE III
+1585.0394684824184 - SEGA Sound Team - Sonic R Original Soundtrack
+1582.395780949753 - Pi’erre Bourne - The Life Of Pi'erre 4 (Deluxe)
+1581.6018496157901 - The Strokes - Is This It
+1581.4246080578675 - Big K.R.I.T. - 4eva Is a Mighty Long Time
+1579.5775865768605 - DR. GABBA - s a v e s t a t e
+1573.8126755283415 - Katy Perry - Teenage Dream
+1573.0034370116457 - Radiohead - OK Computer
+1571.9807220042287 - The Weeknd - Kiss Land
+1569.8780025676253 - Taylor Swift - Midnights
+1569.3920400403408 - Bloc Party - Intimacy
+1566.47620533297 - Dr. Gabba - ACID REFLUX
+1566.3186793569537 - Magdalena Bay - Mercurial World
+1565.4790709450035 - BLACKPINK - BLACKPINK IN YOUR AREA
+1563.944117484491 - The Backseat Lovers - Waiting to Spill
+1562.5720504110175 - Foo Fighters - The Colour and the Shape
+1562.2261189208652 - LIL UZI VERT - Red & White
+1562.1490949271429 - M.I.A. - Arular
+1558.378036858336 - Capsule - Sugarless GiRL
+1557.0737175664274 - Young Nudy - SLI'MERRE
+1555.7425752356633 - Pi'erre Bourne - Good Movie
+1551.0398538478278 - Game Freak - Pokémon Black 2 & Pokémon White 2: Super Music Collection
+1544.2853683834796 - j^p^n - Unkind
+1543.7047529116774 - Sun Kil Moon - Common As Light And Love Are Red Valleys Of Blood
+1543.0166786830896 - Duster - Stratosphere
+1542.5743001017183 - Playboi Carti - In Abundance
+1542.4240626452697 - TV Girl - French Exit
+1539.5302596165711 - Blood Orange - Negro Swan
+1539.1620441879343 - Steely Dan - Can't Buy A Thrill
+1537.1830100127609 - Stan Getz - Getz/Gilberto
 1534.9236272056166 - Fleet Foxes - Fleet Foxes
-1533.4475073785818 - For Emma, Forever Ago - Bon Iver
-1532.384980873221 - Details - Frou Frou
-1523.2823199819773 - Getz/Gilberto - Stan Getz
-1522.8655320458788 - Bubba - Kaytranada
-1522.583552586659 - Illinois - Sufjan Stevens
-1522.398147269484 - The Mouse & The Mask - DANGERDOOM
-1522.0727337123044 - Clean - Soccer Mommy
-1521.0072089604232 - moe moe - Moe Shop
-1520.688210606477 - MORE! MORE! MORE! - Capsule
-1520.6834727728303 - I Know NIGO! - Nigo
-1519.8858485497988 - Mini Mix, Vol. 1 - Magdalena Bay
-1515.595268207742 - dawn FM - The Weeknd
-1514.3971302118216 - Her Loss - Drake & 21 Savage
-1513.2965300536518 - Before The Night - Home
-1502.276389814585 - Nudy Land - Young Nudy
-1501.5711304332751 - LOUIE - Kenny Beats
-1500.269334768593 - Fight Songs: The Music Of Team Fortress 2 - Valve Studio Orchestra
-1500.2625523093625 - 4L - yeat
-1499.859644679301 - for young hearts - Soccer Mommy
-1499.4469067198513 - up 2 më - yeat
-1498.4097227295447 - Damogen Furies - Squarepusher
-1497.7739587827446 - BA3 - YUNG BAE
-1494.6861590924896 - Super Fly - Curtis Mayfield
-1492.1532255803547 - Ride On Time - Tatsuro Yamashita
-1488.7267768438107 - One Day You'll See Me Again (1999-2008) - Viper
+1533.4475073785818 - Bon Iver - For Emma, Forever Ago
+1529.7033877296246 - Dr. Gabba - Prescriptions II
+1525.1805959840883 - Lana Del Rey - Norman Fucking Rockwell!
+1522.8655320458788 - Kaytranada - Bubba
+1522.583552586659 - Sufjan Stevens - Illinois
+1522.398147269484 - DANGERDOOM - The Mouse & The Mask
+1522.0727337123044 - Soccer Mommy - Clean
+1521.0072089604232 - Moe Shop - moe moe
+1520.688210606477 - Capsule - MORE! MORE! MORE!
+1520.6834727728303 - Nigo - I Know NIGO!
+1519.8858485497988 - Magdalena Bay - Mini Mix, Vol. 1
+1514.3971302118216 - Drake & 21 Savage - Her Loss
+1513.2965300536518 - Home - Before The Night
+1502.200711633542 - The Weeknd - dawn FM
+1501.5711304332751 - Kenny Beats - LOUIE
+1500.269334768593 - Valve Studio Orchestra - Fight Songs: The Music Of Team Fortress 2
+1500.2625523093625 - yeat - 4L
+1500.0000000000000 - Tinashe - 333 (Deluxe)
+1500.0000000000000 - Oasis - (What's the Story) Morning Glory?
+1500.0000000000000 - BROCKHAMPTON - TM
+1500.0000000000000 - BROCKHAMPTON - THE FAMILY
+1500.0000000000000 - Pastel Ghost - Abyss
+1500.0000000000000 - Mariah Carey - Daydream
+1500.0000000000000 - Arctic Monkeys - The Car
+1500.0000000000000 - Oasis - Definitely Maybe
+1499.859644679301 - Soccer Mommy - for young hearts
+1498.4097227295447 - Squarepusher - Damogen Furies
+1496.1877575765348 - Lana Del Rey - Lust for Life
+1494.6861590924896 - Curtis Mayfield - Super Fly
+1489.6829555717572 - yeat - up 2 më
+1488.7267768438107 - Viper - One Day You'll See Me Again (1999-2008)
 1488.3121448522772 - Bon Iver - Bon Iver
-1484.3924134842844 - Ninja Tuna - Mr. Scruff
-1484.2130171206322 - PLAYER - Capsule
-1482.7733053758486 - Purple Rain - Prince
-1480.4032739766426 - No Stylist - Destroy Lonely
-1478.2598897683176 - LIGHT'N UP - MINAKO YOSHIDA
-1478.2294004484806 - Lust for Life - Lana Del Rey
-1474.1564840669118 - Love & Evil - LOONA 1/3
-1473.907493930115 - AM - Arctic Monkeys
-1471.9356285993936 - In Between Dreams - Jack Johnson
-1471.5829060112742 - DS4EVER - Gunna
-1471.0943469887645 - A Cross The Universe - Justice
-1470.1270463399924 - The Leo Sun Sets - Dreamer Isioma
-1468.7986799530581 - Hounds of Love - Kate Bush
-1467.3934211815424 - Funk Wav Bounces Vol. 2 - Calvin Harris
-1463.7880671203982 - Whatever People Say I Am, That's What I'm Not - Arctic Monkeys
-1460.2028854464472 - Yellow Tape - Key Glock
-1458.1744799007465 - BLANK BANSHEE 0 - Blank Banshee
-1454.3423191507618 - For the first time - Black Country, New Road
-1453.1692330972696 - Who Really Cares - TV Girl
-1452.5032854648814 - PLASMA - Perfume
-1452.3688417051897 - Gemini Rights - Steve Lacy
-1452.3603932280032 - Sessions: Star Guardian Taliyah - League of Legends
-1449.2975207583556 - Spacy - Tatsuro Yamashita
-1448.2855528381242 - Metro City - Vantage
-1446.8646942802018 - CRISIS VISION - MUST DIE!
-1446.5045157437023 - Foreign Exchange - Rx Papi & Gud
-1441.4842034851956 - Renaissance - Beyoncé
-1441.4728621445852 - HONESTLY, NEVERMIND - Drake
-1439.1171622752238 - WAVE RUNNER - Capsule
-1438.3479984581272 - Starz - Yung Lean
-1433.3569227677312 - Hi This Is Flume (Mixtape) - Flume
-1432.9789774860178 - Now, Not Yet - half·alive
-1432.70343636778 - Moonrise - Night Tempo
-1432.5019457178155 - Dreams Worth More Than Money - Meek Mill
-1431.804790060473 - It's Almost Dry - Pusha T
-1429.3015333678843 - Capsule Losing Contact - Duster
-1427.918981876324 - THE INSPECTION - Cochise
-1426.024917379206 - LEVEL SELECT - Pizza Hotline
-1424.8715358133898 - DONDA2 - Kanye West
-1420.5935538950278 - 7220 - Lil Durk
-1418.5037217519925 - Play - Moby
-1417.7561113994018 - Sin Miedo (del Amor y Otros Demonios) ∞ - Kali Uchis
-1416.6564903002995 - Nicole - Niki
-1413.6720568779256 - 2 Alivë - yeat
-1413.034191441328 - The Kick Inside - Kate Bush
-1412.9389387122274 - Falling Into Place - Home
-1406.0129242674377 - Keep It Unreal - Mr. Scruff
-1405.7830095517402 - grape soda - Rook1e
-1404.8129539546203 - Wasteland - Brent Faiyaz
-1401.3275451107138 - UN VERANO SIN TI - Bad Bunny
-1400.6432375446914 - recently - Liana Flores
-1399.3973983711717 - Odyssey - Home
-1398.8094778864995 - Smithereens - Joji
-1397.1154015715158 - DELIVERY BOY 2099 // 配達少年2099 - Pizza Hotline
-1396.8302649290658 - Jack Johnson and Friends: Sing-A-Longs and Lullabies for the Film Curious George - Jack Johnson
-1391.9134481737553 - Motion - Calvin Harris
-1390.7649906263473 - nurture - Porter Robinson
-1387.1093828867554 - Sonder Son - Brent Faiyaz
-1370.6016307723564 - MATA - M.I.A.
-1369.928625342242 - Blackout - Britney Spears
-1366.9746011926854 - Vinyl Days - Logic
-1361.9672939285435 - 1999 - Prince
-1359.5019456044743 - Moby - Moby
-1356.9657056256483 - I Love Life, Thank You - Mac Miller
-1348.279103310935 - You Can Fly On My Aeroplane - Wee
+1484.3924134842844 - Mr. Scruff - Ninja Tuna
+1484.2130171206322 - Capsule - PLAYER
+1483.873268751961 - YUNG BAE - BA3
+1482.7733053758486 - Prince - Purple Rain
+1480.4032739766426 - Destroy Lonely - No Stylist
+1478.2598897683176 - MINAKO YOSHIDA - LIGHT'N UP
+1474.1564840669118 - LOONA 1/3 - Love & Evil
+1473.907493930115 - Arctic Monkeys - AM
+1471.9356285993936 - Jack Johnson - In Between Dreams
+1471.5829060112742 - Gunna - DS4EVER
+1471.0943469887645 - Justice - A Cross The Universe
+1470.1270463399924 - Dreamer Isioma - The Leo Sun Sets
+1468.7986799530581 - Kate Bush - Hounds of Love
+1467.3934211815424 - Calvin Harris - Funk Wav Bounces Vol. 2
+1465.0517252378122 - League of Legends - Sessions: Star Guardian Taliyah
+1460.2028854464472 - Key Glock - Yellow Tape
+1458.1744799007465 - Blank Banshee - BLANK BANSHEE 0
+1455.2139146439222 - Arctic Monkeys - Whatever People Say I Am, That's What I'm Not
+1454.3423191507618 - Black Country, New Road - For the first time
+1453.1692330972696 - TV Girl - Who Really Cares
+1452.5032854648814 - Perfume - PLASMA
+1452.3688417051897 - Steve Lacy - Gemini Rights
+1449.2975207583556 - Tatsuro Yamashita - Spacy
+1448.2855528381242 - Vantage - Metro City
+1447.4390498223524 - Pusha T - It's Almost Dry
+1446.8646942802018 - MUST DIE! - CRISIS VISION
+1441.4728621445852 - Drake - HONESTLY, NEVERMIND
+1439.1171622752238 - Capsule - WAVE RUNNER
+1438.3479984581272 - Yung Lean - Starz
+1433.3569227677312 - Flume - Hi This Is Flume (Mixtape)
+1432.70343636778 - Night Tempo - Moonrise
+1431.867565032749 - Beyoncé - Renaissance
+1430.8702559818228 - Rx Papi & Gud - Foreign Exchange
+1429.3015333678843 - Duster - Capsule Losing Contact
+1427.918981876324 - Cochise - THE INSPECTION
+1426.5090227016894 - half·alive - Now, Not Yet
+1426.024917379206 - Pizza Hotline - LEVEL SELECT
+1420.5935538950278 - Lil Durk - 7220
+1418.5037217519925 - Moby - Play
+1417.7561113994018 - Kali Uchis - Sin Miedo (del Amor y Otros Demonios) ∞
+1416.6564903002995 - Niki - Nicole
+1413.6720568779256 - yeat - 2 Alivë
+1413.034191441328 - Kate Bush - The Kick Inside
+1412.9389387122274 - Home - Falling Into Place
+1401.3275451107138 - Bad Bunny - UN VERANO SIN TI
+1400.6432375446914 - Liana Flores - recently
+1399.3973983711717 - Home - Odyssey
+1398.8094778864995 - Joji - Smithereens
+1396.8302649290658 - Jack Johnson - Jack Johnson and Friends: Sing-A-Longs and Lullabies for the Film Curious George
+1395.7138298343937 - Brent Faiyaz - Wasteland
+1391.9134481737553 - Calvin Harris - Motion
+1390.7649906263473 - Porter Robinson - nurture
+1389.3179569887 - Pizza Hotline - DELIVERY BOY 2099 // 配達少年2099
+1387.1093828867554 - Brent Faiyaz - Sonder Son
+1385.7664844430908 - Rook1e - grape soda
+1369.928625342242 - Britney Spears - Blackout
+1366.9746011926854 - Logic - Vinyl Days
+1362.3661708394466 - M.I.A. - MATA
+1361.9672939285435 - Prince - 1999
+1356.9657056256483 - Mac Miller - I Love Life, Thank You
+1348.279103310935 - Wee - You Can Fly On My Aeroplane
